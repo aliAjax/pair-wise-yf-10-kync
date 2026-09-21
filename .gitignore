@@ -23,3 +23,6 @@ out/
 !.env.example
 __pycache__/
 *.py[cod]
+
+# local db override and atomic write temp files
+*.tmp
